@@ -12,7 +12,8 @@ sudo apt-get install -y python3-distutils
 # Install Python packages
 pip install -r requirements.txt
 
-#after installation of pacakages run this command to see dashboard
+#after installation of packages run this command to see dashboard
+
 streamlit run dash.py
 
 
