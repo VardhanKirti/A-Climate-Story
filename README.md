@@ -2,6 +2,13 @@
 A visualization tool using the Streamlit library in Python to display future predictions of greenhouse gas (GHG) emissions, incorporating heat maps and scatterplots to visualize trends. 
 
 Download all the files in your directory and install all the packages in the requirements.txt to run the dashboard named das.py
+run these commands to install them in your bash:
+# Install system dependencies
+sudo apt-get update
+sudo apt-get install -y python3-distutils
+
+# Install Python packages
+pip install -r requirements.txt
 
 
 ![dash1](https://github.com/user-attachments/assets/b2055beb-eb61-4a66-a65f-3ee9760f1dcf)
