@@ -3,7 +3,7 @@ A visualization tool using the Streamlit library in Python to display future pre
 
 Download all the files in your directory and install all the packages in the requirements.txt to run the dashboard named das.py
 run these commands to install them in your bash:
-# Install system dependencies
+# Install system dependencies (no need to install for python version upto 3.11)
 sudo apt-get update
 sudo apt-get install -y python3-distutils
 
